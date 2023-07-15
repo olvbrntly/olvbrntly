@@ -5,9 +5,9 @@ Welcome to my github!
 - 🔭 I’m currently working on -- ChartBuster --  a video library CRUD app reminiscent of BlockBuster
 - 🌱 I’m currently learning how to build full stack applications!
 
-- Languages and Frameworks: HTML, CSS, JavaScript, React, Node.js, Express
-- Other Technologies: MongoDB, EJS
--  Dev Tools: Git, Github, VScode, Vite, Webpack
+- ✨ Languages and Frameworks: HTML, CSS, JavaScript, React, Node.js, Express
+- ✨ Other Technologies: MongoDB, EJS
+- ✨ Dev Tools: Git, Github, VScode, Vite, Webpack
 
 
 
