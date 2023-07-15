@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Welcome to my github!
+
+- 🔭 I’m currently working on -- ChartBuster --  a video library CRUD app reminicient of BlockBuster
+- 🌱 I’m currently learning Node.js
+
+- Languages and Frameworks: HTML, CSS, JavaScript, React, Node.js, Express
+- Other Technologies: MongoDB, EJS
+-  Dev Tools: Git, Github, VScode, Vite, Webpack
+
+
+
 <!--
 **olvbrntly/olvbrntly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
