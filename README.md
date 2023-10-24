@@ -5,12 +5,12 @@ Welcome to my github!
 - 🔭 I’m currently working on ~~ LOCAL ~~  a small business directory web app
 - 🌱 I’m currently learning: Data Structures and Algorithms, backend development
 
-- ⚡ SKILLS ⚡
+⚡ SKILLS ⚡
 - ✨ Frontend: HTML, CSS, JavaScript, React, Redux, React-Bootstrap
 - ✨ Backend: NodeJS, express, JavaScript, MongoDB, EJS
 - ✨ Misc: Git, Github, VScode, Vite, Webpack, NPM, Linux
 
-- 📫 How to reach me: oliviabrantley3@gmail.com
+ 📫 How to reach me: oliviabrantley3@gmail.com
 
 
 
