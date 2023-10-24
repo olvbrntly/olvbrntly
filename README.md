@@ -5,9 +5,12 @@ Welcome to my github!
 - 🔭 I’m currently working on ~~ LOCAL ~~  a small business directory web app
 - 🌱 I’m currently learning: Data Structures and Algorithms, backend development
 
-- ✨ Languages and Frameworks: HTML, CSS, JavaScript, React, Node.js, Express
-- ✨ Other Technologies: MongoDB, EJS
-- ✨ Dev Tools: Git, Github, VScode, Vite, Webpack
+- ⚡ SKILLS ⚡
+- ✨ Frontend: HTML, CSS, JavaScript, React, Redux, React-Bootstrap
+- ✨ Backend: NodeJS, express, JavaScript, MongoDB, EJS
+- ✨ Misc: Git, Github, VScode, Vite, Webpack, NPM, Linux
+
+- 📫 How to reach me: oliviabrantley3@gmail.com
 
 
 
